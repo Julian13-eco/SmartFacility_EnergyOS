@@ -9,7 +9,7 @@
 
 Voici une démonstration de l'interface Smart Facility Energy OS en action, montrant le Hub, le simulateur de ROI interactif et le dashboard de maintenance préventive.
 
-<img src="static/demo_qualite.gif" width="100%" alt="Démonstration animée de l'Energy OS">
+<img src="static/demo_qualite.gif" width="50%" alt="Démonstration animée de l'Energy OS">
 
 ## 📊 Problématique et Vision
 
