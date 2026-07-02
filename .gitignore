@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 
-# Ignorer les environnements virtuels (si tu en utilises un localement)
+# Ignorer les environnements virtuels
 venv/
 .venv/
 Env/
