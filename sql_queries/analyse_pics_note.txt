@@ -1,0 +1,9 @@
+Méthode A : Le Seuil de Vigilance (85% du Max Historique)
+On prend le pic absolu que tu as trouvé (ex: 11,20 kW pour la Numérisation) et on fixe la limite à 85% de cette valeur.
+
+Objectif : Déclencher une alerte avant d'atteindre le pire scénario pour te laisser le temps de couper un équipement (délestage).
+
+Méthode B : Le Seuil Statistique (Le 95ème Percentile)
+C'est la méthode la plus scientifique. Le 95ème percentile est la valeur en dessous de laquelle le service se situe 95% du temps. Les 5% restants représentent les pics exceptionnels.
+
+Objectif : Identifier dès qu'une consommation sort de ses habitudes "normales" de fonctionnement.

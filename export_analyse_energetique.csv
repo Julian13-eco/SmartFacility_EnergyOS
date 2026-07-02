@@ -1,0 +1,14 @@
+﻿service;talon_actuel_kw;kwh_economisables_par_heure;economie_annuelle_estimee_euros
+Courrier;1.1;0.9;591.3
+RESPI gauche;0.73;0.53;348.21
+Caféteria;0.68;0.48;315.36
+PGCC Droite;0.66;0.46;302.22
+Numérisation;0.53;0.33;216.81
+Support;0.21;0.01;6.57
+Salle de réunion;0.03;0.0;0.0
+RESPI droite;0.1;0.0;0.0
+Pôle finance;0.15;0.0;0.0
+PGCC gauche;0.12;0.0;0.0
+AGA gauche;0.14;0.0;0.0
+AGA droite;0.09;0.0;0.0
+#Fiche d'indicateurs pré-calculés sur le talon et les économies en euros, prête à alimenter la page financière de ton rapport BI.

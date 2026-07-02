@@ -1,0 +1,8 @@
+# Ignorer les dossiers système de Python
+__pycache__/
+*.py[cod]
+
+# Ignorer les environnements virtuels (si tu en utilises un localement)
+venv/
+.venv/
+Env/

@@ -1,0 +1,14 @@
+﻿Service;Max Historique (kW);Seuil Vigilance (85% du Max);Seuil Normal Haut (Percentile 95)
+AGA droite;3.49;2.97;2.74
+AGA gauche;5.21;4.43;3.02
+Caféteria;6.08;5.17;3.72
+Courrier;5.03;4.28;2.98
+Numérisation;11.2;9.52;7.74
+PGCC Droite;4.56;3.88;3.23
+PGCC gauche;4.36;3.71;3.05
+Pôle finance;5.2;4.42;2.96
+RESPI droite;4.53;3.85;3.16
+RESPI gauche;6.33;5.38;4.46
+Salle de réunion;5.49;4.67;4.11
+Support;7.46;6.34;5.69
+#Registre des seuils critiques calculés, utilisable pour tracer les lignes d'alerte dans Power BI ou pour programmer les futures notifications de ton API Enedis.
