@@ -1,8 +1,4 @@
 # ⚡ Smart Facility Energy OS : Pipeline de Pilotage de la Consommation
-
-![GitHub License](https://img.shields.shields.shields.shields.shields.shields.shields.shields/github/license/TON_USERNAME/NOM_DU_REPO)
-![Python Version](https://img.shields.shields.shields.shields.shields.shields.shields.shields.shields.shields/badge/python-3.8%2B-blue)
-
 > Une application "Data-to-Action" connectée pour auditer, simuler et optimiser la consommation électrique d'un site industriel/tertiaire tertiaire à l'aide de l'IA et de l'automatisation.
 
 ## 📺 Démonstration de l'Application
