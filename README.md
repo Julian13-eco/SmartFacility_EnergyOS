@@ -41,8 +41,7 @@ La transition énergétique des bâtiments tertiaires (en réponse notamment au 
 
 1. Cloner le dépôt :
    ```bash
-   git clone [https://github.com/TON_USERNAME/NOM_DU_REPO.git](https://github.com/TON_USERNAME/NOM_DU_REPO.git)
-   cd NOM_DU_REPO
+   git clone https://github.com/Julian13-eco/SmartFacility_EnergyOS.git
 
 2. Installer les dépendances :
 pip install -r requirements.txt
